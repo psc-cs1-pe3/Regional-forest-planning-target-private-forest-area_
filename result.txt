@@ -1,1 +1,5 @@
 Reinitialized existing Git repository in D:/fromHttpContents/contents_w/wgm/wkym_opendata/Regional-forest-planning-target-private-forest-area_/JSON/.git/
+[master 6095444] 'Wakayama GIS OpenData'
+ 2 files changed, 4 insertions(+)
+ create mode 100644 result.txt
+Branch master set up to track remote branch master from origin.
